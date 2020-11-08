@@ -17,6 +17,7 @@ p {
   text-align: center;
   clear: both;
   padding: 5px;
+  font-size: 100%;
 }
 
 /* Simple Responsive Framework. */
